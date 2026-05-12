@@ -8,8 +8,8 @@
 ## Open Source Tools
 - [Git Documentation](https://git-scm.com/doc)
 - [GitHub Guides](https://guides.github.com)
-- [missing link]() <!-- intentional bug -->
-
+- [Linux Foundation](https://www.linuxfoundation.org)
+- [Open Source Guide](https://opensource.guide)
 ## Community Resources
 - [Stack Overflow](https://stackoverflow.com)
 - [Open Source Initiative](https://opensource.org)
