@@ -1,15 +1,17 @@
-# BOSC Community Library - Resource Index
+## Localized Language Resources
 
-## Programming Resources
-- [Python Official Docs](https://docs.python.org)
-- [JavaScript MDN Guide](https://developer.mozilla.org)
-- [broken link](htp://broken-resource.invalid) <!-- intentional bug -->
+### Swahili (Kiswahili)
+- [Kiswahili Tech Resources](https://www.elimu.io)
+- [African Open Source Community](https://africanopensource.org)
 
-## Open Source Tools
-- [Git Documentation](https://git-scm.com/doc)
-- [GitHub Guides](https://guides.github.com)
-- [Linux Foundation](https://www.linuxfoundation.org)
-- [Open Source Guide](https://opensource.guide)
-## Community Resources
-- [Stack Overflow](https://stackoverflow.com)
-- [Open Source Initiative](https://opensource.org)
+### French (Français)
+- [Mozilla Firefox en Français](https://www.mozilla.org/fr)
+- [OpenClassrooms](https://openclassrooms.com)
+
+### Arabic (العربية)
+- [Mozilla Arabic](https://www.mozilla.org/ar)
+- [Ar.Wikipedia Open Source](https://ar.wikipedia.org)
+
+### Spanish (Español)
+- [Mozilla en Español](https://www.mozilla.org/es-ES)
+- [OpenWebDocs Español](https://developer.mozilla.org/es)
